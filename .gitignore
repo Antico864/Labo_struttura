@@ -1,0 +1,6 @@
+# Ignora i file senza estensione e i file .o
+*
+!/**/
+!*.*
+
+*.o

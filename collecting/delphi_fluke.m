@@ -29,4 +29,3 @@ nome_file = 'dati_resistenza.txt';
 
 % Save on file
 writetable(Rs, nome_file, 'Delimiter', '\t');
-

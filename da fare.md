@@ -3,14 +3,10 @@
 ***
 
 1. Modificare codice;  
-2. Scegliere il substrato
 
-Le scelte sono: 
+Substrati: 
 
-* carbonio amorfo (colonne cilindriche) +	+++
-* carta (swag ma bisogna controllare se regge il vuoto) +	
-* vetro (con eventuale aggiunta di Al per rugosità) -	++
-* polietilene +  
-* mica -	++
-* silicio -	
+* carbonio amorfo (colonne cilindriche) su vetro
+* silicio 	
+* PET (PE, HDPE)
 

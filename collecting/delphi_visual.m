@@ -92,3 +92,6 @@ writetable(Measures, data_file, 'Delimiter', '\t');
 % 255 254 1 5 5 " 5 character bytes" 7 (7 is the checksum)
 
 flush(maxtek);
+
+% If Ctrl+C is used, digit writetable(Measures, data_file, 'Delimiter', '\t'); to save measures in the log file. 
+% Matlab automatically saves all variables, so no data is lost. 

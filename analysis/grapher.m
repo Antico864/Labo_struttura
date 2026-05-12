@@ -22,7 +22,7 @@ valid = ~isnan(R) & ~isnan(thickness) & (R > 0);
 R = R(valid);
 thickness = thickness(valid);
 
-rate_nm = rate*100;
+rate_nm = rate*0.1;
 thickness_nm = thickness*100;
 
 
